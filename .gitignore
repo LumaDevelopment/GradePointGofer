@@ -1,0 +1,6 @@
+
+*.class
+.settings/org.eclipse.jdt.core.prefs
+parcel.txt
+.project
+.classpath
