@@ -3,7 +3,7 @@
 
 As a dual-enrolled student, calculating my GPA was always a nightmare to do with online calculators. I would have to add years of high school AND college classes, and do it all over again the moment I got done with a semester. Now, while a normal person would use an Excel spreadsheet, a Computer Science student that has been itching to write some good (and or servicable) code will make a program for it!
 
-**This is GradePointGofer, a program that allows you to add, remove list, list different, and calculat the GPA of classes, all while allowing what you've done to be saved to a nice text file.**
+**This is GradePointGofer, a program that allows you to add, remove list, list different, and calculate the GPA of classes, all while allowing what you've done to be saved to a nice text file.**
 
 Commands:
 - Add courses ('add') - Adds a course with the specified name, semester, grade, and type (AP, College, or Regular)
